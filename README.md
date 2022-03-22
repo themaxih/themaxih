@@ -5,7 +5,7 @@
 
 - I’m currently working on [ZombShooter](https://github.com/themaxih/ZombShooter)
 
-- You can give me feedbacks on Instagram **https://www.instagram.com/themaxii_/**
+- You can give me feedbacks in private messages on Instagram **https://www.instagram.com/themaxii_/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
