@@ -1,8 +1,6 @@
 <h1 align="center">Greeting, I'm TheMaxi</h1>
 <h3 align="center">I love make video games, I want to upgrade my skills on Unity and become a good game designer and programmer, I share the video game that I create to get feedbacks and train on Unity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themaxih&label=Profile%20views&color=0e75b6&style=flat" alt="themaxih" /> </p>
-
 - I’m currently working on [ZombShooter](https://github.com/themaxih/ZombShooter)
 
 - You can give me feedbacks in private messages on Instagram **https://www.instagram.com/themaxii_/**
